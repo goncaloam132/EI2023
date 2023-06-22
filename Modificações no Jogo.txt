@@ -1,0 +1,17 @@
+Como podemos observar na Ilustração nº1, o fundo do jogo
+foi modificado como as plataformas visíveis no ecrã, as estrelas foram
+trocadas por moedas e a bomba também foi modificada.
+O tamanho do ecrã também foi alterado de 800x600 para 1024x768 assim
+obtendo uma maior área de jogabilidade.
+As plataformas foram modificadas, trocando as posições das mesmas e
+adicionando uma plataforma extra ao jogo para ocupar a nova área
+adicionada.
+A movimentação do jogador também foi alterada, este ficando um pouco
+mais rápido para poder travessar o ecrã num tempo mais reduzido.
+
+Na Ilustração nº2 também é possível observar o ‘Score’ que será acrescido de
+1 a cada moeda que o jogador coletar. Abaixo do ‘Score’ é possível observar
+uma nova adição ao jogo, que são as ‘Lives’. Estas ‘Lives’ vão permitir ao
+jogador de obter vidas e assim podendo chegar mais longe no seu ‘Score’,
+sendo que a certos momentos do jogo, dependendo do mesmo ‘Score’ do
+jogador, este obterá vidas extras.
